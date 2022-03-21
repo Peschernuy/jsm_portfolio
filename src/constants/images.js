@@ -23,7 +23,8 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile from '../assets/profile.png';
+import profile from '../assets/profile.jpg';
+import profile1 from '../assets/profile1.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
@@ -60,6 +61,7 @@ import spotify from '../assets/spotify.png';
   about03,
   about04,
   profile,
+  profile1,
   circle,
   logo,
   adidas,
