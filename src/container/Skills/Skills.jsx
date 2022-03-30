@@ -88,8 +88,6 @@ const Skills = () => {
   );
 };
 
-
-
 export default AppWrap(
   MotionWrapper(Skills, "app__skills"),
   "skills",
