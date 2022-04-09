@@ -39,7 +39,7 @@ const Work = () => {
   return (
     <>
       <h2 className="head-text">
-        My Creative <span>Portfolio</span> Section
+        Our <span>Portfolio</span>
       </h2>
 
       <div className="app__work-filter">
@@ -120,6 +120,6 @@ const Work = () => {
 
 export default AppWrap(
   MotionWrapper(Work, "app__work"),
-  "work",
+  "portfolio",
   "app__primarybg"
 );

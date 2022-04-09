@@ -17,8 +17,8 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        I Know that <span>Good Development</span> <br /> means
-        <span> Good Buisness</span>
+      Be a market leader <span>with premium custom</span> <br /> software
+        <span> development</span>
       </h2>
 
       <div className="app__profiles">
